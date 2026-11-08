@@ -1,0 +1,11 @@
+{
+  "name": "lamelia",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Lamelia: learn and play songs on your kalimba (PWA).",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "python3 -m http.server 8080"
+  }
+}
