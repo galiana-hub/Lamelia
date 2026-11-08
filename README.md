@@ -38,14 +38,8 @@ Tests (Node 20+):
 ```bash
 npm test
 ```
-
-## Publish on GitHub Pages
-
-1. Push the files to the `main` branch.
-2. On GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch → `main` / `(root)`**.
-3. Open `https://<user>.github.io/<repository>/` on the phone and use Chrome's menu ⋮ → **Install app**.
-
-All paths in the project are relative, so it works under any repository name.
+Phone: 
+With Chrome, go in the website and download on the app settings or Chrome options.
 
 ## Project layout
 
